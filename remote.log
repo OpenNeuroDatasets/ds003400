@@ -1,0 +1,1 @@
+2410edd3-77b2-4768-b120-8cc7915c0dd0 autoenable=false bucket=openneuro-private datacenter=US encryption=none exporttree=yes fileprefix=ds003400/ host=s3.amazonaws.com name=s3-PRIVATE partsize=1GiB port=80 public=no storageclass=STANDARD type=S3 versioning=yes timestamp=1606405172.818988067s
