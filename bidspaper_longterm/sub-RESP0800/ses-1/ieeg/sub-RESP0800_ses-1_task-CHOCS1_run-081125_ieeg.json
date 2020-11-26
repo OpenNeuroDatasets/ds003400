@@ -1,0 +1,43 @@
+{
+	"TaskName": "task-CHOCS1",
+	"SamplingFrequency": 2048,
+	"PowerLineFrequency": 50,
+	"SoftwareFilters": "n\/a",
+	"DCOffsetCorrection": "n\/a",
+	"HardwareFilters": {
+		"HighpassFilter": {
+			"CutoffFrequency": 0.15
+		},
+		"LowpassFilter": {
+			"CutoffFrequency": 468
+		}
+	},
+	"Manufacturer": "Micromed",
+	"ManufacturersModelName": "LTM128 Express",
+	"TaskDescription": "CHOCS protocol is performed to delineate functional areas and evoke epileptic auras.",
+	"Instructions": "No instruction is given",
+	"InstitutionName": "University Medical Center Utrecht, Division Brain, Clinical Neurophysiology Department",
+	"InstitutionAddress": "Heidelberglaan 100, 3584 CX Utrecht",
+	"DeviceSerialNumber": "n\/a",
+	"ECOGChannelCount": 0,
+	"SEEGChannelCount": 110,
+	"EEGChannelCount": 0,
+	"EOGChannelCount": 0,
+	"ECGChannelCount": 1,
+	"EMGChannelCount": 1,
+	"MiscChannelCount": 0,
+	"TriggerChannelCount": 2,
+	"RecordingDuration": 3600.09375,
+	"RecordingType": "continuous",
+	"EpochLength": 0,
+	"SubjectArtefactDescription": "artefacts are annotated manually when patient moves (which gives artefacts in all electrodes), or when an electrode is malfunctioning for a short period of time",
+	"SoftwareVersions": "4",
+	"iEEGReference": "probably mastoid",
+	"ElectrodeManufacturer": "AdTech;PL[1:10];QL[1:6];RL[1:10];SL[1:6];TL[1:8];VL[1:8];WL[1:8];UL[1:6];XL[1:8];YL[1:8];ZL[1:6];PHL[1:8];AHL[1:8];FEL[1:10];",
+	"ElectrodeManufacturersModelName": "n\/a",
+	"iEEGGround": "top of forehead or mastoid",
+	"iEEGPlacementScheme": "left",
+	"iEEGElectrodeGroups": "seeg;PL[1x10];QL[1x6];RL[1x10];SL[1x6];TL[1x8];UL[1x6];VL[1x8];WL[1x8];XL[1x8];YL[1x8];ZL[1x6];AHL[1x8];PHL[1x8];FEL[1x10];",
+	"ElectricalStimulation": true,
+	"ElectricalStimulationParameters": "See for more detail the events.tsv"
+}

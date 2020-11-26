@@ -1,0 +1,4 @@
+onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
+1907.6142578125	0.91015625	artefact	n/a	all	all	1908.5244140625	3906794	3908658	n/a	n/a	n/a	n/a	n/a	n/a
+2327.71142578125	1.52978515625	artefact	n/a	all	all	2329.2412109375	4767153	4770286	n/a	n/a	n/a	n/a	n/a	n/a
+0.03857421875	3599.8876953125	sleep	unknown	all	all	3599.92626953125	79	7372649	n/a	n/a	n/a	n/a	n/a	n/a
