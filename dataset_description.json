@@ -1,0 +1,23 @@
+{
+	"Name": "RESPect_intraoperative",
+	"BIDSVersion": "BEP010",
+	"License": "This dataset is made available under the Public Domain Dedication and License CC0 1.0, whose full text can be found at https://creativecommons.org/publicdomain/zero/1.0/. We hope that all users will follow the ODC Attribution/Share-Alike Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); in particular, while not legally required, we hope that all users of the data will acknowledge by citing Demuru M., van Blooijs D., Zweiphenning W. et al 2020, A practical workflow for organizing clinical intraoperative and long-term iEEG data in BIDS",
+	"Authors": [
+		"Zweiphenning W.",
+		"Demuru M.",
+		"van Blooijs D.",
+		"Leijten F.",
+		"Zijlmans M."
+	],
+	"Acknowledgements": "dAngremont E., Wassenaar M.",
+	"HowToAcknowledge": "Demuru M., van Blooijs D., Zweiphenning W. et al 2020, A practical workflow for organizing clinical intracranial EEG data in the intraoperative and long term monitoring settings in the Brain Imaging Data Structure",
+	"Funding": [
+		"Epi-Sign Project",
+		"Alexandre Suerman Stipendium 2015",
+		"Epilepsiefonds #17-07"
+	],
+	"ReferencesAndLinks": [
+		"articles and\/or links"
+	],
+	"DatasetDOI": "DOI of the dataset if online"
+}
