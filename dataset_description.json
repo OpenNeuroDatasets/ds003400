@@ -1,5 +1,5 @@
 {
-    "Name": "RESPect_intraoperative",
+    "Name": "Dataset Clinical Epilepsy iEEG to BIDS - RESPect_acute_iEEG",
     "BIDSVersion": "BEP010",
     "License": "CC0",
     "Authors": [
