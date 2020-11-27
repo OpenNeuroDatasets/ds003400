@@ -1,7 +1,0 @@
-participant_id	sex	age	coverage	side	type iEEG	type surgery	lobe surgery	pathology	engel 1 year	aed
-RESP0059	F	15,0	T	R	aECoG	Right anterior temporal lobectomy including hippocampectomy	T	MTS, Wyler gr 4 + basotemporal neocortical reactive tissue	1A	unknown
-RESP0280	M	6,0	T	R	aECoG	Right anterior temporal lobectomy including laesionectomy and amygdalohippocampectomy	T	diffuse glioma / astrocytoma WHO gr 2	1A	Withdrawing
-RESP0356	M	16,4	T	R	aECoG	Right anterior temporal lobectomy including amygdalohippocampectomy	T	tuber, no MTS	1A	Withdrawing
-RESP0301	M	3,4	O	R	aECoG	Resection right mesio-occipital	O	ganglioglioma WHO gr 1	1A	No
-RESP0384	F	7,3	F	R	aECoG	Resection right frontal operculum cq insula	F	cavernoma	1A	No
-RESP0465	F	6,7	PO	R	aECoG	Resection right parieto-occipital	P	gliosis	1A	Withdrawing

@@ -1,6 +1,0 @@
-filename	acq_time	good_segments_duration	good_segments_number	artefact_number	artefact_number_electrodes	burstsuppression_duration	oddbehavior_duration
-ses-SITUATION1A/ieeg/sub-RESP0059_ses-SITUATION1A_task-acute_ieeg.vhdr	1900-01-01T10:46:30	323.4961	1	7	11	0	0
-ses-SITUATION1B/ieeg/sub-RESP0059_ses-SITUATION1B_task-acute_ieeg.vhdr	1900-01-01T10:46:30	311.7842	2	0	0	0	0
-ses-SITUATION2A/ieeg/sub-RESP0059_ses-SITUATION2A_task-acute_ieeg.vhdr	1900-01-01T11:30:49	372.978	5	0	0	0	1254
-ses-SITUATION3A/ieeg/sub-RESP0059_ses-SITUATION3A_task-acute_ieeg.vhdr	1900-01-01T13:14:22	757.0703	4	1	2	0	0
-ses-SITUATION4A/ieeg/sub-RESP0059_ses-SITUATION4A_task-acute_ieeg.vhdr	1900-01-01T13:41:14	592.3984	2	7	5	0	0
