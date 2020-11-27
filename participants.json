@@ -49,6 +49,7 @@
 			"P": "parietal",
 			"F": "frontal"
 			}
+	}
 	"pathology": {
 		"Description": "pathology"
 	},
@@ -57,5 +58,5 @@
 	},
 	"aed": {
 		"Description": "anti-epileptic drug status"
-	},
+	}
 }
