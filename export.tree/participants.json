@@ -1,0 +1,62 @@
+{
+	"participant_id": {
+		"Description": "name of the patient"
+	},
+	"sex": {
+		"Description": "gender of the patient (male\/female\/unknown)",
+		"Levels": {
+			"M": "male",
+			"F": "female",
+			"unknown": "unknown"
+		}
+	},
+	"age": {
+		"Description": "age of the patient during the session",
+		"Units": "years"
+	},
+	"coverage": {
+		"Description": "anatomical coverage of the electrodes",
+		"Levels": {
+			"T": "temporal",
+			"O": "occipital",
+			"P": "parietal",
+			"F": "frontal"
+			}
+	},
+	"side": {
+		"Description": "side of the brain",
+		"Levels": {
+			"L": "left",
+			"R": "right"
+		}
+	},
+	"type iEEG": {
+		"Description": "type of implantation",
+		"Levels": {
+			"aECOG": "acute electrocorticography",
+			"cECOG": "long-term electrocorticography",
+			"SEEG":  "stereo-encephalography "
+		}
+	},
+	"type surgery": {
+		"Description": "type of surgery"
+	},
+	"lobe surgery": {
+		"Description": "anatomical lobe of surgery ",
+		"Levels": {
+			"T": "temporal",
+			"O": "occipital",
+			"P": "parietal",
+			"F": "frontal"
+			}
+	},
+	"pathology": {
+		"Description": "pathology"
+	},
+	"engel 1 year": {
+		"Description": "Engel epilepsy surgery outcome scale"
+	},
+	"aed": {
+		"Description": "anti-epileptic drug status"
+	}
+}
