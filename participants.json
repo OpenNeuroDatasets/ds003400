@@ -38,7 +38,7 @@
 			"SEEG":  "stereo-encephalography "
 		}
 	},
-	"type of surgery": {
+	"type surgery": {
 		"Description": "type of surgery"
 	},
 	"lobe surgery": {
