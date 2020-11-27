@@ -30,7 +30,7 @@
 			"R": "right"
 		}
 	},
-	"type IEEG": {
+	"type iEEG": {
 		"Description": "type of implantation",
 		"Levels": {
 			"aECOG": "acute electrocorticography",
