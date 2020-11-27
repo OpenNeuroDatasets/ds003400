@@ -2,19 +2,60 @@
 	"participant_id": {
 		"Description": "name of the patient"
 	},
-	"session": {
-		"Description": "available sessions(situations), each situation is labelled with an increasing number and letter indicative of the time respective to the surgical resection and the position of the electrodes"
+	"sex": {
+		"Description": "gender of the patient (male\/female\/unknown)",
+		"Levels": {
+			"M": "male",
+			"F": "female",
+			"unknown": "unknown"
+		}
 	},
 	"age": {
 		"Description": "age of the patient during the session",
 		"Units": "years"
 	},
-	"sex": {
-		"Description": "gender of the patient (male\/female\/unknown)",
+	"coverage": {
+		"Description": "anatomical coverage of the electrodes",
 		"Levels": {
-			"male": "male",
-			"female": "female",
-			"unknown": "unknown"
+			"T": "temporal",
+			"O": "occipital",
+			"P": "parietal",
+			"F": "frontal"
+			}
+	},
+	"side": {
+		"Description": "side of the brain",
+		"Levels": {
+			"L": "left",
+			"R": "right"
 		}
-	}
+	},
+	"type IEEG": {
+		"Description": "type of implantation",
+		"Levels": {
+			"aECOG": "acute electrocorticography",
+			"cECOG": "long-term electrocorticography",
+			"SEEG":  "stereo-encephalography "
+		}
+	},
+	"type of surgery": {
+		"Description": "type of surgery"
+	},
+	"lobe surgery": {
+		"Description": "anatomical lobe of surgery ",
+		"Levels": {
+			"T": "temporal",
+			"O": "occipital",
+			"P": "parietal",
+			"F": "frontal"
+			}
+	"pathology": {
+		"Description": "pathology"
+	},
+	"engel 1 year": {
+		"Description": "Engel epilepsy surgery outcome scale"
+	},
+	"aed": {
+		"Description": "anti-epileptic drug status"
+	},
 }
