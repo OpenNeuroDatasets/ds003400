@@ -1,9 +1,0 @@
-onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-1613.33251953125	9.59375	artefact	n/a	all	all	1622.92626953125	3304105	3323753	n/a	n/a	n/a	n/a	n/a	n/a
-1772.984375	6.373046875	artefact	n/a	all	all	1779.357421875	3631072	3644124	n/a	n/a	n/a	n/a	n/a	n/a
-2562.56640625	1.615234375	artefact	n/a	all	all	2564.181640625	5248136	5251444	n/a	n/a	n/a	n/a	n/a	n/a
-2568.60107421875	2.7470703125	artefact	n/a	all	all	2571.34814453125	5260495	5266121	n/a	n/a	n/a	n/a	n/a	n/a
-2933.8916015625	4.4873046875	artefact	n/a	all	all	2938.37890625	6008610	6017800	n/a	n/a	n/a	n/a	n/a	n/a
-2946.396484375	8.02685546875	artefact	n/a	all	all	2954.42333984375	6034220	6050659	n/a	n/a	n/a	n/a	n/a	n/a
-2160.71728515625	8.123046875	seizure	subclin	QL04,QL05,QL06,SL01,TL03,TL04,TL05,TL06,VL01,VL03,VL04,VL05,VL06,VL07,UL02,UL03,UL04,YL01,YL02,YL03,YL04,YL05,ZL04,ZL05,ZL06	QL04,QL05,QL06,SL01,SL02,TL04,TL05,TL06,VL04,VL05,VL06,UL03,YL01,YL02,YL03	2168.84033203125	4425149	4441785	n/a	n/a	n/a	n/a	n/a	n/a
-0.03857421875	3599.83154296875	sleep	unknown	all	all	3599.8701171875	79	7372534	n/a	n/a	n/a	n/a	n/a	n/a

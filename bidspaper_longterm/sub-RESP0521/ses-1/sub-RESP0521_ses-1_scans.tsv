@@ -1,4 +1,0 @@
-filename	acq_time	format	artefact	sleep_total	sleep_rem	sleep_nrem	sleepwaketransition	seizure_total	seizure_clinical	seizure_subclinical	motor	spes	rec2stim	esm	chocs	language	sens	sws_sel	rem_sel	iiaw_sel	EI_sel
-ieeg/sub-RESP0521_ses-1_task-SPESclin_run-021231_ieeg.eeg	1900-01-02T12:31:59	included	16	0	0	0	0	0	0	0	0	572	0	0	0	0	0	0	0	0	0
-ieeg/sub-RESP0521_ses-1_task-Sleep_run-030344_ieeg.eeg	1900-01-03T03:44:41	not included	2	3116.22509765625	604.78857421875	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-ieeg/sub-RESP0521_ses-1_task-Sleep_run-060307_ieeg.eeg	1900-01-06T03:07:04	not included	3	332.748046875	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1
