@@ -1,0 +1,34 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch	status	status_description
+Gr16	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr17	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr18	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr19	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr20	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Rst01	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Rst02	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Rst03	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Gr11	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr12	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr13	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr14	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr15	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Rst04	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Rst05	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Rst06	ECOG	µV	468	0.15	G2	strip	2048	n/a	good	included
+Gr06	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr07	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr08	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr09	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr10	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Riv01	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Riv02	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Riv03	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr01	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr02	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr03	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr04	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Gr05	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Riv04	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+Riv05	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+ECG	ECG	µV	468	0.15	G2	other	2048	n/a	good	not included
+MKR+	TRIG	µV	468	0.15	MKR-	other	2048	n/a	good	not included
